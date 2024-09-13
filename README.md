@@ -40,7 +40,7 @@ The project uses satellite images stored in the `Data/` directory. Ensure you ha
 1. Ensure all dependencies are installed and the dataset is in place.
 2. Run the script:
    ```
-   python satellite_image_classification.py
+   python main.py
    ```
 3. The script will output:
    - A visualization of K-means clustering results
